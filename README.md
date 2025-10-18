@@ -1,6 +1,6 @@
 # Desafio-Batalha-Naval
 
-```
+
 Este projeto é uma simulação simplificada do jogo Batalha Naval, implementada em C, com foco na aplicação de diferentes habilidades (áreas de ataque) sobre um tabuleiro fixo com navios.
 
 ## Objetivo
